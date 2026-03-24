@@ -5,8 +5,8 @@
       "name": "Food",
       "banner": "https://i.imgur.com/ibKwJZj.jpeg",
       "stickers": [
-        { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiAKcDYScb0ppYcWRSutwJI3VTb3eGKuGw9PWmGLHz0q5pbkoAPKxMUvLQU7e7I_Hvbp9k8MWpG_Xkfe2AYY6h8F-MDmdQoQFwMDGFMcTk0H123fb6jLPIv-5L5mH9O0HCFzJ2OA-siINTsqR7UCEKxiH2g-Z4RJDeo8YU9lS9C0fBSi1Zn_eIkSsnkgMc6" },
-        { "id": "s2", "name": "Burger", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiAKcDYScb0ppYcWRSutwJI3VTb3eGKuGw9PWmGLHz0q5pbkoAPKxMUvLQU7e7I_Hvbp9k8MWpG_Xkfe2AYY6h8F-MDmdQoQFwMDGFMcTk0H123fb6jLPIv-5L5mH9O0HCFzJ2OA-siINTsqR7UCEKxiH2g-Z4RJDeo8YU9lS9C0fBSi1Zn_eIkSsnkgMc6" }
+        { "id": "s1", "name": "Taco", "url": "https://i.imgur.com/ibKwJZj.jpeg" },
+        { "id": "s2", "name": "Burger", "url": "https://i.imgur.com/ibKwJZj.jpeg" }
       ]
     },
     {
@@ -14,11 +14,8 @@
       "name": "Cat Stickers",
       "banner": "https://i.imgur.com/ibKwJZj.jpeg",
       "stickers": [
-        { "id": "s3", "name": "Talking Cat", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiAKcDYScb0ppYcWRSutwJI3VTb3eGKuGw9PWmGLHz0q5pbkoAPKxMUvLQU7e7I_Hvbp9k8MWpG_Xkfe2AYY6h8F-MDmdQoQFwMDGFMcTk0H123fb6jLPIv-5L5mH9O0HCFzJ2OA-siINTsqR7UCEKxiH2g-Z4RJDeo8YU9lS9C0fBSi1Zn_eIkSsnkgMc6" }
+        { "id": "s3", "name": "Talking Cat", "url": "https://i.imgur.com/ibKwJZj.jpeg" }
       ]
-    },
-    { "id": "cat3", "name": "Cute", "banner": "https://i.imgur.com/ibKwJZj.jpeg", "stickers": [] },
-    { "id": "cat4", "name": "Memes", "banner": "https://i.imgur.com/ibKwJZj.jpeg", "stickers": [] },
-    { "id": "cat5", "name": "Animals", "banner": "https://i.imgur.com/ibKwJZj.jpeg", "stickers": [] }
+    }
   ]
 }
