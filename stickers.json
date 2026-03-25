@@ -5,16 +5,16 @@
       "name": "Food",
       "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEi3_8R5M_98We7EVjbXb2_0qmTmIGiZyCJWFYGWsvZG6v9KjcIPpSZvckES783Tu01uIyt4QSNBzNK55mvmYg9pyNP4IKvx69f1hTKxrQ5qheGAfvlCCIoyrGjcpDbva4kqcRnGBUR_DoS_15LTqDa1nlDhy5MIVMxmdF2JLdC5T5A5EkCiupaUKxs58_Ie=s16000",
       "stickers": [
-        { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi3_8R5M_98We7EVjbXb2_0qmTmIGiZyCJWFYGWsvZG6v9KjcIPpSZvckES783Tu01uIyt4QSNBzNK55mvmYg9pyNP4IKvx69f1hTKxrQ5qheGAfvlCCIoyrGjcpDbva4kqcRnGBUR_DoS_15LTqDa1nlDhy5MIVMxmdF2JLdC5T5A5EkCiupaUKxs58_Ie=s16000" },
-        { "id": "s2", "name": "Burger", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi3_8R5M_98We7EVjbXb2_0qmTmIGiZyCJWFYGWsvZG6v9KjcIPpSZvckES783Tu01uIyt4QSNBzNK55mvmYg9pyNP4IKvx69f1hTKxrQ5qheGAfvlCCIoyrGjcpDbva4kqcRnGBUR_DoS_15LTqDa1nlDhy5MIVMxmdF2JLdC5T5A5EkCiupaUKxs58_Ie=s16000" }
+        { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjrfDLfiLFtR0Rw_k75HUJHIbbglpIOfHMgbt_HQ3yUGatPhg7PJ8d7e7UT8W1YzvO8pmYlUq--yRVCnGZh2UzqRaQjJaXOimOOG11lpTCQEWt7ja-66_QcRZmNasajycEiysU7Q8UULVGO42eu2dYqEqOFHQJa7FTJGgMmUhAX-tYMP49YVpiicGzySALx" },
+        { "id": "s2", "name": "Burger", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjrfDLfiLFtR0Rw_k75HUJHIbbglpIOfHMgbt_HQ3yUGatPhg7PJ8d7e7UT8W1YzvO8pmYlUq--yRVCnGZh2UzqRaQjJaXOimOOG11lpTCQEWt7ja-66_QcRZmNasajycEiysU7Q8UULVGO42eu2dYqEqOFHQJa7FTJGgMmUhAX-tYMP49YVpiicGzySALx" }
       ]
     },
     {
       "id": "cat2",
       "name": "Cat Stickers",
-      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEi3_8R5M_98We7EVjbXb2_0qmTmIGiZyCJWFYGWsvZG6v9KjcIPpSZvckES783Tu01uIyt4QSNBzNK55mvmYg9pyNP4IKvx69f1hTKxrQ5qheGAfvlCCIoyrGjcpDbva4kqcRnGBUR_DoS_15LTqDa1nlDhy5MIVMxmdF2JLdC5T5A5EkCiupaUKxs58_Ie=s16000",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEjrfDLfiLFtR0Rw_k75HUJHIbbglpIOfHMgbt_HQ3yUGatPhg7PJ8d7e7UT8W1YzvO8pmYlUq--yRVCnGZh2UzqRaQjJaXOimOOG11lpTCQEWt7ja-66_QcRZmNasajycEiysU7Q8UULVGO42eu2dYqEqOFHQJa7FTJGgMmUhAX-tYMP49YVpiicGzySALx",
       "stickers": [
-        { "id": "s3", "name": "Talking Cat", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi3_8R5M_98We7EVjbXb2_0qmTmIGiZyCJWFYGWsvZG6v9KjcIPpSZvckES783Tu01uIyt4QSNBzNK55mvmYg9pyNP4IKvx69f1hTKxrQ5qheGAfvlCCIoyrGjcpDbva4kqcRnGBUR_DoS_15LTqDa1nlDhy5MIVMxmdF2JLdC5T5A5EkCiupaUKxs58_Ie=s16000" }
+        { "id": "s3", "name": "Talking Cat", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjrfDLfiLFtR0Rw_k75HUJHIbbglpIOfHMgbt_HQ3yUGatPhg7PJ8d7e7UT8W1YzvO8pmYlUq--yRVCnGZh2UzqRaQjJaXOimOOG11lpTCQEWt7ja-66_QcRZmNasajycEiysU7Q8UULVGO42eu2dYqEqOFHQJa7FTJGgMmUhAX-tYMP49YVpiicGzySALx" }
       ]
     }
   ]
