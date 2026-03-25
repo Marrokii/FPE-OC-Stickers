@@ -3,7 +3,7 @@
     {
       "id": "cat1",
       "name": "Food",
-      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEgbX4taLLxzRQVTTwQY_f5XuSB-tZ95kwCFP4NShXRAAB2s6lYMsp3K62lXWO8NLktjaTvQbpY5imVyJ_0Kue_RBltbM0KNQzBMcC_DzZuPR9vAD0j2nTQXOqRXk2n0i7FrAUJ55rDHd_htJpd0A1i3l0UF2MoPoEyxbegOboDC6kgze9GfVe8bCevZgq3F",
       "stickers": [
         { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhraT9ssWkYtVkCtgL1TQRqEjq_k2HK4Ly6jwRF3W3o8Scgratp7BFnkjbwTJJTi_1fet5Sk0dEdY7gzkt0QzO7T_Xdjo1bOyoz03wPLtrqoszMJkseGw8zuTwlYKTbyVSivUgpq2QQUp8bvKburYwRU_9stjAr8qCGZ-ruMqpuCC3t6xqdtXSsGEc-bYd2" },
         { "id": "s2", "name": "Burger", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgTEt9nldEd2Na2Cg2T6nSUTe1MqWVmEgL8s_4Oydci0AjNH80t7aIRAAmzo9bAv_HsMQXAMU9LQrJSz9__59JNpu2cs07qQMtEvIv6gJxNFl1YrbJTUZSEBArXwECljc4QMWesNyoE9cw6zav0TSDAbQjkyFfF7c2EBuqKUIZP2iKDi5oWv_vUvgCUt-71" },
@@ -24,7 +24,7 @@
     {
       "id": "cat2",
       "name": "Cat Stickers",
-      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEgsfETNvHPYKDyG5szRw2On9trXCv2c2TMjtdhLqTt_Q34aYVohmCEEHYAMH2vOZttTCM619i8mXAYprzxGRaUXoUhM_d4MtYPRDlEmypqkwfDYUjFh2LasVgu8JJURf2AJJ1N0r7J_JpDikLn6tu9ojmrelyXomKKQ5CKzdYDTFYSn25gXQWVx73te7isE",
       "stickers": [
         { "id": "s15", "name": "Talking Cat", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgfFwFDiBycAq_84q7Z9x0rVtRsQtjdBvfVRF4NfxqDpX51KueR8AS-VK37OA0z2GG-BWTpYPCdB418m4eqzWExj3Kwx3ZS8KQecjYD-aIk4ZmmJgAFY0K8Bwx7EaHKnGwZ8vlhlthXiCm-eRNjwyrwTMKNwaVQ5D3yhpbF-PtQl5DBClz5H4AcQeTrLsVt" },
         { "id": "s16", "name": "Sleepy Kitty", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjbHpz7vmioHjSTol6de9oVBmFPH31QDs1NYvT37Fuj3AAog3_MN0zBWdWSWKZwr9GEq3zLg-tLemv1e5e894e2Sic33BBHPzs6kP3rB0FSSPKkgIy0lCki-MoSrsYLRxzznOItk0TLp08QAlxyBNA-NOYRXPVyv_Xzas5VQlSElhve7xdXFdPMv3g72PZk" },
@@ -45,7 +45,7 @@
     {
       "id": "cat3",
       "name": "Animals",
-      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEg9AIaEs7KnJeiYFLtdXxD-IhMYD4oRYJvVoN2Rf8UaDzi2ztk76ZIZ8o9nvLSLfs0Jq9XaK5dZ1mEMYFWWi76z5QvCo-gok5MvmK9NJMcHm4pZ1cvtOouXe372-NzrQ76ptjWDz18WAw3NeU_qPKiO5xex2YbXqT5n_s7cXmsG_Ay2BWC38gQFv66SzHtK",
       "stickers": [
         { "id": "s29", "name": "Happy Panda", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg9AIaEs7KnJeiYFLtdXxD-IhMYD4oRYJvVoN2Rf8UaDzi2ztk76ZIZ8o9nvLSLfs0Jq9XaK5dZ1mEMYFWWi76z5QvCo-gok5MvmK9NJMcHm4pZ1cvtOouXe372-NzrQ76ptjWDz18WAw3NeU_qPKiO5xex2YbXqT5n_s7cXmsG_Ay2BWC38gQFv66SzHtK" },
         { "id": "s30", "name": "Little Fox", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgMlq-l6FoBBI9Pobm2zm5eMiokJVzj2-NzsUkR1V9PMsA2wrFbOVF5dVAr2KbKkejIqUooEeizw5K9ZXZlgGQFuoZFWyEoXx_g8okDudCAml3tGkskEx3ameRGroxg6RkwT8MSfvHf1QL8RXiMQOP-Sfq4yf_oqvdqd1PDbu2lnMtkSce1NkGmz2jExt85" },
@@ -66,7 +66,7 @@
     {
       "id": "cat4",
       "name": "Emoji Fun",
-      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEhPnuVymp-hhrWM4FPbN-bI5R41pdWTEZXUyXyfmAQreEX9grh92PJAgkNA6AShBmA5LuvYpnzQ7cp4z0s2RSO_8ApQH4hocEP11vM5xq0pNony_gFRvoRPCvl20l0JP94_vHBuAMLOkwQ-ZVu9XS3XB9JG_zkdJF8kuyI_Ze1U6h2xXjsjsFTxrXwkfW6z",
       "stickers": [
         { "id": "s43", "name": "Happy Smile", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvGOEVXioy1J8ebXJjYBv9FFi45lCLpV6_kzWFFKXohnrdoZ44hb9fCvPtkf_pxAxcOP0UfBivA802mLBaky8BDkd2eexiUTGa1TKgWEYgc4-M5G3LQ18XwNlpQHa7LY9OfHw-K40wz4sPBn4_d3PgZIvgnTkLZkFYF9OvQ0cVNA-NLfAy2GIF3roak1ft" },
         { "id": "s44", "name": "Laugh Burst", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg3uRA4aeRUsSgMvmB_CC3xIo_0gymGcyJfumLdPebOoY3pT_TCvcjGh1CX-oOYF6HaWXvVC8U-qAf47qWWi78Fh7SbiZAFmEt2i0LmaDmoteV3yN3FQnhU28Nl26DeYWF5S6GpfUcXyOp-N_9rPJMivTsG-B45MEZw-j2C014DPuVfU18PAqugaD4b17bi" },
@@ -87,7 +87,7 @@
     {
       "id": "cat5",
       "name": "Gaming",
-      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEi6ZB7HD3d-6pR3gHabeBCctVgOBLcF5lbHF_8GLIbyC5Dq3uBam1emBmj_K2qBhxeHq5Sjei-TQfplyVveKpqbduhk3NTdjdlqqEFeqa9hvu3vQXW-d0pJQHatr_E0tIqMWWXACkmZnUjDmnrNdR3xqFcDIhohkg8JFDebCL0RsuvgWFosZ3vGdmg1Lkad",
       "stickers": [
         { "id": "s57", "name": "Pixel Hero", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi6ZB7HD3d-6pR3gHabeBCctVgOBLcF5lbHF_8GLIbyC5Dq3uBam1emBmj_K2qBhxeHq5Sjei-TQfplyVveKpqbduhk3NTdjdlqqEFeqa9hvu3vQXW-d0pJQHatr_E0tIqMWWXACkmZnUjDmnrNdR3xqFcDIhohkg8JFDebCL0RsuvgWFosZ3vGdmg1Lkad" },
         { "id": "s58", "name": "Game Start", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh1O6VVAde32dN_CUJ8zxsx3xvOhV--gnwgnZH3hF7C0ThCDxWVWwprrEd4i09YoOpbJN2HjCDsY5kgl-FXAcCxkvJ-S2XKzba_izx-oskB_wCJOiLoiYQInfcSzkxtwngAg5qXTD4WICDF0ES1xo2k8pZLxzaguPUFLrHgOmXNO-adN7FSDAn3wn8XSz-8" },
