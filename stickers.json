@@ -3,9 +3,9 @@
     {
       "id": "cat1",
       "name": "Group 1",
-      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEjqmPnN0vtSvNJAWv0nRK_0nnioyD36r5CDDraFMEIfyO29dQZsMzMDsBSEm3h0O4VIi2-AEksxsnBdUKddnPcM45RwrORg-HUuFDGrCycBLAvHbTGCJViw1TQN6-NcgS4WDfLDiFRpQC_rnM-d6NzbThPGG2WshSW15-LEUlG8-TdW1OeAyJY6LCyBQy5T",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEhCwsCWEUOpS8v01N9xQkjTzYiSA3ek3jqVsgojmJ9iSTF4slB8okXvi6SFcxq0LAes9Uxtr5CmedKhvZEK5a0VsDTmTOMLPKjXROjyzYffbGBogJTvXEX_kbq72SfZL6eJEgwYo7u3UdQOWfYlrL5daGI-g9tyYRo8GaLM7NBZ1GJKPi8ZPMww1nyDFzXN",
       "stickers": [
-        { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjqmPnN0vtSvNJAWv0nRK_0nnioyD36r5CDDraFMEIfyO29dQZsMzMDsBSEm3h0O4VIi2-AEksxsnBdUKddnPcM45RwrORg-HUuFDGrCycBLAvHbTGCJViw1TQN6-NcgS4WDfLDiFRpQC_rnM-d6NzbThPGG2WshSW15-LEUlG8-TdW1OeAyJY6LCyBQy5T" },
+        { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhCwsCWEUOpS8v01N9xQkjTzYiSA3ek3jqVsgojmJ9iSTF4slB8okXvi6SFcxq0LAes9Uxtr5CmedKhvZEK5a0VsDTmTOMLPKjXROjyzYffbGBogJTvXEX_kbq72SfZL6eJEgwYo7u3UdQOWfYlrL5daGI-g9tyYRo8GaLM7NBZ1GJKPi8ZPMww1nyDFzXN" },
         { "id": "s2", "name": "Burger", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhO2UdMGtZWYR6PxFcYGUZKc6JdVqPpIA4A8pffgZgF-dYOqijsFExZvat2haxkimk0fff-4Xc71hR9SlOM7N1Re_KqbJ5P2FIF8rh_EWN3eFS4v1I4zSnwtVrXtiiAPC_78wECiEcA7RtU6Zn71pXuO9yZeW4YptKPvMT1M_5P379kxLITNorRNUHwulGg" },
         { "id": "s3", "name": "Pizza Slice", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgxQ-KwavmO5hfcpJK8rVaP_c4u7Ae6X-q0ykdRMzTftx70eTfi23q4ZXSPisbjBkxlHw-8eX2BDvCWQ3V1amkBzp2c9uDysny3SJjyl1R9H4sggQJGrRsgkfFTxcevM_oI0Cy4898gha1iW38s3brFsp1SCCQK11Lceb_FYz1Gb4BaobBQhJGunsZiuIRq" },
         { "id": "s4", "name": "Hot Dog", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgLGNceZW1qVOgD4Sv13HJegc6hXqZgAR5Wvd6FGPNAYJzt1KFIzzKyi4UNwrHMgYxSK8kbHXtEzxsdpx_DNbOHPmRM7CeRFJZ0TUVuxqnPQUXS5Ljo6SCgxbUy64X9PW4zMQrww2WJy7SwrHdrUKMoy5E1Q4lycaFHdDZakPpzAYVs8luQ97ZIpBEmCY8q" },
@@ -59,9 +59,9 @@
     {
       "id": "cat5",
       "name": "Group 5",
-      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEhCwsCWEUOpS8v01N9xQkjTzYiSA3ek3jqVsgojmJ9iSTF4slB8okXvi6SFcxq0LAes9Uxtr5CmedKhvZEK5a0VsDTmTOMLPKjXROjyzYffbGBogJTvXEX_kbq72SfZL6eJEgwYo7u3UdQOWfYlrL5daGI-g9tyYRo8GaLM7NBZ1GJKPi8ZPMww1nyDFzXN",
+      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEjqmPnN0vtSvNJAWv0nRK_0nnioyD36r5CDDraFMEIfyO29dQZsMzMDsBSEm3h0O4VIi2-AEksxsnBdUKddnPcM45RwrORg-HUuFDGrCycBLAvHbTGCJViw1TQN6-NcgS4WDfLDiFRpQC_rnM-d6NzbThPGG2WshSW15-LEUlG8-TdW1OeAyJY6LCyBQy5T",
       "stickers": [
-        { "id": "s57", "name": "Pixel Hero", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhCwsCWEUOpS8v01N9xQkjTzYiSA3ek3jqVsgojmJ9iSTF4slB8okXvi6SFcxq0LAes9Uxtr5CmedKhvZEK5a0VsDTmTOMLPKjXROjyzYffbGBogJTvXEX_kbq72SfZL6eJEgwYo7u3UdQOWfYlrL5daGI-g9tyYRo8GaLM7NBZ1GJKPi8ZPMww1nyDFzXN" },
+        { "id": "s57", "name": "Pixel Hero", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjqmPnN0vtSvNJAWv0nRK_0nnioyD36r5CDDraFMEIfyO29dQZsMzMDsBSEm3h0O4VIi2-AEksxsnBdUKddnPcM45RwrORg-HUuFDGrCycBLAvHbTGCJViw1TQN6-NcgS4WDfLDiFRpQC_rnM-d6NzbThPGG2WshSW15-LEUlG8-TdW1OeAyJY6LCyBQy5T" },
         { "id": "s58", "name": "Game Start", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEja8nHEIBwJZOXnwcEX5QnG6P0Ll13uSOILJqMnxAUxy-zp9rWASiBCeAYiUnlBm8-tC8rqkDrlqfhDVkQ-ScFUCEnkF7P77OW2ETrCwoEGMVjHvKvs8fWlxY8zKAtxd98VZcLgfJTQnFbaiXPgSsyPBCydrBLZyXMxD4_NicbO2-__ASRs5kJHJszdXpv4" },
         { "id": "s59", "name": "Boss Fight", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg9dQk56XwMRZoZUewiZfawMUogREt1zAq6TsPvTdgVwjnlcnqyFknO2odPL3zfOb2Msvoz8JQlacnlF8mxh11fdvyK13X3GJgvYRx9AUURgTJGRbBN5TfgpOgzVKDY-ejd2w70c-1cau6Ax_HPHbPllLgWxG_TNSyEjaRBQg6RWMbkXqCCZ5KQyY8pQaEy" },
         { "id": "s60", "name": "Level Up", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEinSaFSvXu_Z4x1xIaAZ3cX19cKfSkHMbhtHJ1JVnjNMrWhOYvUWvfiYACGg1vp3A_5zNyfMwQEyqq0DS-ccfdDYWHBMaqgDMHcqjJEbuc4tMXYL-DG8TV75WqySFtX6ptYgmldghVI67WjBe3hd5KwHGI7HL2a_NqJg5iGNhS1h3RgmJLyLyWQnqCYDUfi" },
